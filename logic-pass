@@ -1,0 +1,26 @@
+Q1/Write a method that will remove any given character from a String?
+str = 'climate is the problem of the times'
+str = str.replace("c", "")
+print(str)
+
+
+
+
+Q2/Write a program to find all prime numbers up to a given range
+of numbers?
+
+i =0
+while i <16:
+  print(i)
+  i += 1
+
+print("End the code")
+
+
+
+Q3/write a function that count how many the given character repeated
+in a given string?
+
+a = "climate is the problem of the times"
+print(a)
+"climate is the problem of the time". count('i')
